@@ -11,6 +11,8 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+gem 'bower-rails', '~> 0.10.0'
+
 group :development, :test do
   gem 'byebug'
 end
