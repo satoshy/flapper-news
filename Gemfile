@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.2.1'
 
 gem 'rails', '4.2.5.1'
 
@@ -19,3 +20,5 @@ group :development do
   gem 'spring'
 end
 
+gem 'web-console', '~> 2.0', group: :development
+gem 'rails_12factor', group: :production
