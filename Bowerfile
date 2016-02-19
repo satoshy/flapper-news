@@ -3,5 +3,6 @@
 
 # asset 'bootstrap'
 
-asset 'angular'
-asset 'angular-ui-router'
+asset "angular"
+asset "angular-ui-router"
+asset "angular-animate"
